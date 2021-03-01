@@ -1,0 +1,13 @@
+{
+    "results": [
+        {
+            "url": "urlName",
+            "build_type": "buildType",
+            "build_date": "buildDate",
+            "version": "version",
+            "filename": "fileName",
+            "size": size,
+            "md5": "id"
+        }
+    ]
+}
